@@ -7,6 +7,11 @@
 - 小程序登录
 - 关注
 - 观看历史
+
+![](http://blog.maomingxqw.cn/images/text/move1.png)
+![](http://blog.maomingxqw.cn/images/text/move2.png)
+![](http://blog.maomingxqw.cn/images/text/move3.png)
+
 ## 爬数据项目： https://github.com/liangyes/scrapym
 
 ## 后台api项目：https://github.com/liangyes/scrapym_api
