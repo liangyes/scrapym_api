@@ -21,7 +21,7 @@ class Weixin extends BaseController
                     ];
     public  function __construct(){
          
-         header('Access-Control-Allow-Origin:*'); // *代表允许任何网址请求
+         header('Access-Control-Allow-Origin:*'); // *代表允许任何网址请求跨域
     }
     /*
      * 小程序登录
